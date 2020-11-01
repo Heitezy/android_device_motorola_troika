@@ -27,7 +27,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := troika
-PRODUCT_NAME := lineage_troika
+PRODUCT_NAME := rr_troika
 PRODUCT_BRAND := Motorola
 PRODUCT_MODEL := One Action
 PRODUCT_MANUFACTURER := Motorola
