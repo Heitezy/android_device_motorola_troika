@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_troika.mk
+    $(LOCAL_DIR)/rr_troika.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_troika-user \
-    lineage_troika-userdebug \
-    lineage_troika-eng
+    rr_troika-user \
+    rr_troika-userdebug \
+    rr_troika-eng
